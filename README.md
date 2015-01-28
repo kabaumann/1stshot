@@ -1,0 +1,2 @@
+# 1stshot
+from class
